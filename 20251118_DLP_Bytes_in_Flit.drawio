@@ -1192,19 +1192,13 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="vYZm-IYJdSC_T5pCEG0T" name="第 7 页">
-    <mxGraphModel dx="2245" dy="1982" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="vYZm-IYJdSC_T5pCEG0T" name="Flit Retry Examples">
+    <mxGraphModel dx="2403" dy="2072" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="g_3pc07eoRgI90QaHtOY-27" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Payload&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 11px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Flit 10&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-200" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="g_3pc07eoRgI90QaHtOY-55" value="NWA : NAK WITHDRAWAL ALLOWED" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="-420" width="240" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="g_3pc07eoRgI90QaHtOY-66" value="NS : NAK_SCHEDULED&amp;nbsp;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="-440" width="240" height="20" as="geometry" />
         </mxCell>
         <mxCell id="g_3pc07eoRgI90QaHtOY-67" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Discard&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; font-size: 11px;&quot;&gt;Flit&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="160" y="60" width="120" height="20" as="geometry" />
@@ -1230,7 +1224,7 @@
         <mxCell id="g_3pc07eoRgI90QaHtOY-76" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Prior Flit : Payload&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="40" y="40" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="g_3pc07eoRgI90QaHtOY-77" value="Nak Schedule 0" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="g_3pc07eoRgI90QaHtOY-77" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Nak Schedule 0&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="160" y="40" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="g_3pc07eoRgI90QaHtOY-78" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Payload&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 11px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Flit 12&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
@@ -1245,14 +1239,14 @@
         <mxCell id="g_3pc07eoRgI90QaHtOY-81" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Prior Flit : Payload&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="40" y="80" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="g_3pc07eoRgI90QaHtOY-82" value="Nak Schedule 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="g_3pc07eoRgI90QaHtOY-82" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Nak Schedule 1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="160" y="80" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="g_3pc07eoRgI90QaHtOY-83" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Discard&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; font-size: 11px;&quot;&gt;Flit&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="160" y="100" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="g_3pc07eoRgI90QaHtOY-84" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;NAK_SCHEDULED_TYPE&amp;nbsp; = STANDARD_NAK&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="540" y="80" width="300" height="20" as="geometry" />
+        <mxCell id="g_3pc07eoRgI90QaHtOY-84" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;NAK_SCHEDULED_TYPE&amp;nbsp; = STANDARD_NAK&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="700" y="80" width="300" height="20" as="geometry" />
         </mxCell>
         <mxCell id="g_3pc07eoRgI90QaHtOY-85" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;NEXT_EXPECTED_RX_FLIT_SEQ_NUM = 11&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="280" y="60" width="260" height="20" as="geometry" />
@@ -1416,9 +1410,6 @@
         <mxCell id="Hpe5ynuHD4XDc1XbhERO-4" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Payload&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 11px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Flit 10&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-200" y="320" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Hpe5ynuHD4XDc1XbhERO-5" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;set NWA = 1&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="280" y="360" width="120" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="Hpe5ynuHD4XDc1XbhERO-6" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Discard&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; font-size: 11px;&quot;&gt;Flit&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="160" y="380" width="120" height="20" as="geometry" />
         </mxCell>
@@ -1443,7 +1434,7 @@
         <mxCell id="Hpe5ynuHD4XDc1XbhERO-13" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Prior Flit : Payload&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="40" y="360" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Hpe5ynuHD4XDc1XbhERO-14" value="Nak Schedule 0" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-14" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Nak Schedule 0&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="160" y="360" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Hpe5ynuHD4XDc1XbhERO-15" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Payload&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 11px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Flit 12&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
@@ -1458,7 +1449,7 @@
         <mxCell id="Hpe5ynuHD4XDc1XbhERO-18" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Prior Flit : Payload&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="40" y="400" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Hpe5ynuHD4XDc1XbhERO-19" value="Nak Schedule 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-19" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Nak Schedule 1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="160" y="400" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Hpe5ynuHD4XDc1XbhERO-20" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Discard&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; font-size: 11px;&quot;&gt;Flit&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
@@ -1518,11 +1509,11 @@
         <mxCell id="Hpe5ynuHD4XDc1XbhERO-42" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;NAK_WITHDRAWAL_ALLOWED = 1&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="280" y="40" width="260" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Hpe5ynuHD4XDc1XbhERO-43" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;NAK_WITHDRAWAL_ALLOWED = 0&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-43" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;NAK_WITHDRAWAL_ALLOWED = 0&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="280" y="100" width="260" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Hpe5ynuHD4XDc1XbhERO-44" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;NAK_SCHEDULED_TYPE&amp;nbsp; = STANDARD_NAK&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="540" y="400" width="300" height="20" as="geometry" />
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-44" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;NAK_SCHEDULED_TYPE&amp;nbsp; = STANDARD_NAK&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="700" y="400" width="300" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Hpe5ynuHD4XDc1XbhERO-45" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;NEXT_EXPECTED_RX_FLIT_SEQ_NUM = 11&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="280" y="400" width="260" height="20" as="geometry" />
@@ -1530,16 +1521,16 @@
         <mxCell id="Hpe5ynuHD4XDc1XbhERO-46" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;TX_ACKNAK_FLIT_SEQ_NUM = NEXT_EXPECTED_RX_FLIT_SEQ_NUM - 1 (10 = 11 - 1)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="540" y="420" width="460" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Hpe5ynuHD4XDc1XbhERO-47" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;NAK_WITHDRAWAL_ALLOWED = 0&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-47" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;set NAK_WITHDRAWAL_ALLOWED = 0&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="280" y="420" width="260" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Hpe5ynuHD4XDc1XbhERO-48" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;NAK_SCHEDULED = 1b&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="840" y="400" width="160" height="20" as="geometry" />
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-48" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;set NAK_SCHEDULED = 1b&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="540" y="400" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Hpe5ynuHD4XDc1XbhERO-50" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Discard&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; font-size: 11px;&quot;&gt;Flit&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="160" y="460" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Hpe5ynuHD4XDc1XbhERO-51" value="Flit Discard 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-51" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Flit Discard 1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="160" y="440" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Hpe5ynuHD4XDc1XbhERO-52" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;NEXT_EXPECTED_RX_FLIT_SEQ_NUM = 11&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
@@ -1643,6 +1634,825 @@
             <mxPoint x="160" y="-200" as="sourcePoint" />
             <mxPoint x="1280" y="-200" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-82" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Ack Schedule 0&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="160" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-83" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;TX_ACKNAK_FLIT_SEQ_NUM = NEXT_EXPECTED_RX_FLIT_SEQ_NUM (10)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="280" width="420" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-84" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;set NEXT_EXPECTED_RX_FLIT_SEQ_NUM = 11&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="280" y="20" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-85" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;set NAK_SCHEDULED = 1b&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="540" y="80" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-86" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Flit Discard 0&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="160" y="140" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-87" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Discard TLP Bytes of the receiverd&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; font-size: 11px;&quot;&gt;Flit&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="440" y="120" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-88" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;set NEXT_EXPECTED_RX_FLIT_SEQ_NUM = 11&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="280" y="140" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-89" value="standard_nak_procedure/ &lt;font style=&quot;color: rgb(153, 153, 153);&quot;&gt;selective_nak_procedure&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="160" y="120" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-90" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Flit Discard 0&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="160" y="180" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-91" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Discard TLP Bytes of the receiverd&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; font-size: 11px;&quot;&gt;Flit&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="440" y="160" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-92" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;set NEXT_EXPECTED_RX_FLIT_SEQ_NUM = 11&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="280" y="180" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-93" value="standard_nak_procedure/ &lt;font style=&quot;color: rgb(153, 153, 153);&quot;&gt;selective_nak_procedure&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="160" y="160" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-94" value="standard_nak_procedure/ &lt;font style=&quot;color: rgb(153, 153, 153);&quot;&gt;selective_nak_procedure&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="160" y="200" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-95" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Ack Schedule 1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="160" y="220" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-96" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;set NAK_SCHEDULED = 0b&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="280" y="220" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-97" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;TX_ACKNAK_FLIT_SEQ_NUM = IMPLICIT_RX_FLIT_SEQ_NUM (11 )&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="440" y="200" width="360" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-98" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;set NEXT_EXPECTED_RX_FLIT_SEQ_NUM = 12&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="440" y="220" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-99" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Ack Schedule 0&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="160" y="240" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-100" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;TX_ACKNAK_FLIT_SEQ_NUM = NEXT_EXPECTED_RX_FLIT_SEQ_NUM (12 )&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="280" y="240" width="420" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-101" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;set NEXT_EXPECTED_RX_FLIT_SEQ_NUM = 13&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="280" y="260" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-102" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Ack Schedule 0&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="160" y="320" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-103" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;TX_ACKNAK_FLIT_SEQ_NUM = NEXT_EXPECTED_RX_FLIT_SEQ_NUM (10)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="280" y="320" width="420" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-104" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;set NEXT_EXPECTED_RX_FLIT_SEQ_NUM = 11&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="280" y="340" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-105" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;set NAK_WITHDRAWAL_ALLOWED = 1&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="280" y="360" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-106" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Flit Discard 0&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="160" y="500" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-107" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Discard TLP Bytes of the receiverd&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; font-size: 11px;&quot;&gt;Flit&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="440" y="480" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-108" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;set NEXT_EXPECTED_RX_FLIT_SEQ_NUM = 11&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="280" y="500" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-109" value="standard_nak_procedure/ &lt;font style=&quot;color: rgb(153, 153, 153);&quot;&gt;selective_nak_procedure&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="160" y="480" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-110" value="standard_nak_procedure/ &lt;font style=&quot;color: rgb(153, 153, 153);&quot;&gt;selective_nak_procedure&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="160" y="520" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-111" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Ack Schedule 1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="160" y="540" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-112" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;set NAK_SCHEDULED = 0b&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="280" y="540" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-113" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;TX_ACKNAK_FLIT_SEQ_NUM = IMPLICIT_RX_FLIT_SEQ_NUM (11 )&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="440" y="520" width="360" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-114" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;set NEXT_EXPECTED_RX_FLIT_SEQ_NUM = 12&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="440" y="540" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-115" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Ack Schedule 0&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="160" y="560" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-116" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;TX_ACKNAK_FLIT_SEQ_NUM = NEXT_EXPECTED_RX_FLIT_SEQ_NUM (12 )&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="280" y="560" width="420" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-117" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;set NEXT_EXPECTED_RX_FLIT_SEQ_NUM = 13&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="280" y="580" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-118" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Payload&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 11px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Flit 10&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="640.8299999999999" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-119" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;set NAK_WITHDRAWAL_ALLOWED = 1&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="280" y="680.8299999999999" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-120" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Discard&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; font-size: 11px;&quot;&gt;Flit&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="160" y="700.8299999999999" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-121" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Valid&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="640.8299999999999" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-122" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Flit Usage 01b&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="640.8299999999999" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-123" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Prior Flit : Payload&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="40" y="640.8299999999999" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-124" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Payload&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 11px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Flit 11&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="680.8299999999999" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-125" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Invalid&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="680.8299999999999" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-126" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Flit Usage 01b&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="680.8299999999999" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-127" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Prior Flit : Payload&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="40" y="680.8299999999999" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-128" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Nak Schedule 0&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="160" y="680.8299999999999" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-129" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Payload&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 11px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Flit 12&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="720.8299999999999" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-130" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Valid&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="720.8299999999999" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-131" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Flit Usage 01b&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="720.8299999999999" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-132" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Prior Flit : Payload&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="40" y="720.8299999999999" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-133" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;set NEXT_EXPECTED_RX_FLIT_SEQ_NUM = 11&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="280" y="700.8299999999999" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-134" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Payload&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 11px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Flit 13&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="760.8299999999999" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-135" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Invalid&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="760.8299999999999" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-136" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Flit Usage 01b&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="760.8299999999999" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-137" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Prior Flit : Payload&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="40" y="760.8299999999999" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-138" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Payload&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 11px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Flit 14&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="800.8299999999999" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-139" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Valid&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="800.8299999999999" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-140" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Flit Usage 01b&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="800.8299999999999" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-141" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Prior Flit : Payload&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="40" y="800.8299999999999" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-142" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Payload&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 11px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Flit 11&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="840.8299999999999" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-143" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Valid&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="840.8299999999999" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-144" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Flit Usage 01b&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="840.8299999999999" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-145" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Prior Flit : Payload&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="40" y="840.8299999999999" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-146" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Payload&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 11px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Flit 12&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="880.8299999999999" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-147" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Valid&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="880.8299999999999" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-148" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Flit Usage 01b&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="880.8299999999999" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-149" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Prior Flit : Payload&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="40" y="880.8299999999999" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-157" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;set NEXT_EXPECTED_RX_FLIT_SEQ_NUM = 11&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="740.8299999999999" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-174" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Ack Schedule 0&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="160" y="640.8299999999999" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-175" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;TX_ACKNAK_FLIT_SEQ_NUM = NEXT_EXPECTED_RX_FLIT_SEQ_NUM (10)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="280" y="640.8299999999999" width="420" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-176" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;set NEXT_EXPECTED_RX_FLIT_SEQ_NUM = 11&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="280" y="660.8299999999999" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-177" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Hpe5ynuHD4XDc1XbhERO-128">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="620.8299999999999" as="sourcePoint" />
+            <mxPoint x="1280" y="680.8299999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-178" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="720.8299999999999" as="sourcePoint" />
+            <mxPoint x="1280" y="720.8299999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-179" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="640" as="sourcePoint" />
+            <mxPoint x="1280" y="640.8299999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-181" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;set NAK_WITHDRAWAL_ALLOWED = 0&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="280" y="740.83" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-182" value="standard_nak_procedure/ &lt;font style=&quot;color: rgb(153, 153, 153);&quot;&gt;selective_nak_procedure&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="160" y="720.83" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-183" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Nak Schedule 2&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="160" y="740.83" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-184" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;TX_ACKNAK_FLIT_SEQ_NUM = NEXT_EXPECTED_RX_FLIT_SEQ_NUM - 1 (10 = 11 - 1)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="440" y="720.83" width="460" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-185" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;set NAK_SCHEDULED = 1b&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="560" y="740.83" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-186" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;NAK_SCHEDULED_TYPE = SANDARD_NAK&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="720" y="740.83" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-187" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;RX_RETRY_BUFFER_LAST_FLIT_SEQ_NUM = 000h&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="900" y="720.83" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-188" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;set NEXT_EXPECTED_RX_FLIT_SEQ_NUM = 11&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="740.83" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-189" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="720.83" as="sourcePoint" />
+            <mxPoint x="1280" y="720.83" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-190" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="760.83" as="sourcePoint" />
+            <mxPoint x="1280" y="760.83" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-191" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Discard&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; font-size: 11px;&quot;&gt;Flit&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="160" y="780.83" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-192" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Flit Discard 1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="160" y="760.83" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-193" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;NEXT_EXPECTED_RX_FLIT_SEQ_NUM = 11&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="280" y="760.83" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-194" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Flit Discard 0&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="160" y="820.83" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-195" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Discard TLP Bytes of the receiverd&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; font-size: 11px;&quot;&gt;Flit&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="440" y="800.83" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-196" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;set NEXT_EXPECTED_RX_FLIT_SEQ_NUM = 11&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="280" y="820.83" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-197" value="standard_nak_procedure/ &lt;font style=&quot;color: rgb(153, 153, 153);&quot;&gt;selective_nak_procedure&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="160" y="800.83" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-198" value="standard_nak_procedure/ &lt;font style=&quot;color: rgb(153, 153, 153);&quot;&gt;selective_nak_procedure&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="160" y="840.83" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-199" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Ack Schedule 1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="160" y="860.83" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-200" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;set NAK_SCHEDULED = 0b&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="280" y="860.83" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-201" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;TX_ACKNAK_FLIT_SEQ_NUM = IMPLICIT_RX_FLIT_SEQ_NUM (11 )&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="440" y="840.83" width="360" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-202" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;set NEXT_EXPECTED_RX_FLIT_SEQ_NUM = 12&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="440" y="860.83" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-203" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Ack Schedule 0&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="160" y="880.83" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-204" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;TX_ACKNAK_FLIT_SEQ_NUM = NEXT_EXPECTED_RX_FLIT_SEQ_NUM (12 )&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="280" y="880.83" width="420" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-205" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;set NEXT_EXPECTED_RX_FLIT_SEQ_NUM = 13&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="280" y="900.83" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-206" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Payload&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 11px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Flit 10&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="-319.17" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-207" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;set NAK_WITHDRAWAL_ALLOWED = 1&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="-279.17" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-208" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Discard&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; font-size: 11px;&quot;&gt;Flit&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="-259.17" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-209" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Valid&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="-319.17" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-210" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Flit Usage 01b&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="-319.17" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-211" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Prior Flit : Payload&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="-319.17" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-212" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Payload&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 11px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Flit 11&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="-279.17" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-213" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Invalid&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="-279.17" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-214" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Flit Usage 01b&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="-279.17" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-215" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Prior Flit : Payload&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="-279.17" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-216" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Nak Schedule 0&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="-279.17" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-217" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Payload&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 11px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Flit 12&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="-239.17000000000002" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-218" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Valid&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="-239.17000000000002" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-219" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Flit Usage 01b&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="-239.17000000000002" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-220" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Prior Flit : Payload&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="-239.17000000000002" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-221" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;set NEXT_EXPECTED_RX_FLIT_SEQ_NUM = 11&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="-259.17" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-222" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Payload&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 11px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Flit 13&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="-199.17000000000002" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-223" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Valid&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="-199.17000000000002" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-224" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Flit Usage 01b&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="-199.17000000000002" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-225" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Prior Flit : Payload&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="-199.17000000000002" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-226" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Payload&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 11px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Flit 14&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="-159.17000000000002" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-227" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Valid&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="-159.17000000000002" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-228" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Flit Usage 01b&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="-159.17000000000002" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-229" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Prior Flit : Payload&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="-159.17000000000002" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-230" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Payload&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 11px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Flit 11&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="-119.17000000000002" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-231" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Valid&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="-119.17000000000002" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-232" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Flit Usage 01b&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="-119.17000000000002" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-233" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Prior Flit : Payload&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="-119.17000000000002" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-234" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Payload&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 11px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Flit 12&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="-79.17000000000002" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-235" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Valid&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="-79.17000000000002" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-236" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Flit Usage 01b&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="-79.17000000000002" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-237" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Prior Flit : Payload&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="-79.17000000000002" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-239" value="&lt;font style=&quot;color: rgb(153, 153, 153);&quot;&gt;standard_nak_procedure&lt;/font&gt;/ &lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;selective_nak_procedure&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="-239.17000000000002" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-240" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Nak Schedule 3&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="-219.17000000000002" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-241" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;TX_ACKNAK_FLIT_SEQ_NUM = NEXT_EXPECTED_RX_FLIT_SEQ_NUM - 1 (10 = 11 - 1)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="-239.17000000000002" width="460" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-242" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;set NAK_SCHEDULED = 1b&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="-219.17000000000002" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-243" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;NAK_SCHEDULED_TYPE = SELECTIVE_NAK&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="-219.17000000000002" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-244" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;NEXT_RX_FLIT_SEQ_NUM_TO_STORE = IMPLICIT_RX_FLIT_SEQ_NUM + 1&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2660" y="-220" width="420" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-245" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;set NEXT_EXPECTED_RX_FLIT_SEQ_NUM = 11&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2400" y="-220.00000000000003" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-254" value="&lt;font style=&quot;color: rgb(153, 153, 153);&quot;&gt;standard_nak_procedure&lt;/font&gt;/ &lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;selective_nak_procedure&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="-120.00000000000001" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-255" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Ack Schedule 2&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="-100.00000000000001" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-256" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;set NAK_SCHEDULED = 0b&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="-100.00000000000001" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-259" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Ack Schedule 0&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="-80.00000000000001" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-260" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;TX_ACKNAK_FLIT_SEQ_NUM = NEXT_EXPECTED_RX_FLIT_SEQ_NUM (12 )&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="-80.00000000000001" width="420" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-261" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;set NEXT_EXPECTED_RX_FLIT_SEQ_NUM = 13&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="-60.000000000000014" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-262" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Ack Schedule 0&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="-319.17" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-263" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;TX_ACKNAK_FLIT_SEQ_NUM = NEXT_EXPECTED_RX_FLIT_SEQ_NUM (10)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="-319.17" width="420" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-264" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;set NEXT_EXPECTED_RX_FLIT_SEQ_NUM = 11&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="-299.17" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-265" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Hpe5ynuHD4XDc1XbhERO-216">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1890" y="-339.17" as="sourcePoint" />
+            <mxPoint x="2960" y="-279.17" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-266" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1840" y="-239.17000000000002" as="sourcePoint" />
+            <mxPoint x="2960" y="-239.17000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-267" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1840" y="-320" as="sourcePoint" />
+            <mxPoint x="2960" y="-319.17" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-268" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1840" y="-199.17000000000002" as="sourcePoint" />
+            <mxPoint x="2960" y="-199.17000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-270" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;RX_RETRY_BUFFER_LAST_FLIT_SEQ_NUM is set to IMPLICIT_RX_FLIT_SEQ_NUM&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2580" y="-240" width="500" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-271" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;store the Received Flit in RX Retry Buffer&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="3080" y="-240" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-272" value="&lt;font style=&quot;color: rgb(153, 153, 153);&quot;&gt;standard_nak_procedure&lt;/font&gt;/ &lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;selective_nak_procedure&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="-200.8" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-273" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Nak Schedule 3&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="-180.8" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-274" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;TX_ACKNAK_FLIT_SEQ_NUM = NEXT_EXPECTED_RX_FLIT_SEQ_NUM - 1 (10 = 11 - 1)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="-200.8" width="460" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-275" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;set NAK_SCHEDULED = 1b&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="-180.8" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-276" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;NAK_SCHEDULED_TYPE = SELECTIVE_NAK&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="-180.8" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-277" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;NEXT_RX_FLIT_SEQ_NUM_TO_STORE = IMPLICIT_RX_FLIT_SEQ_NUM + 1&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2660" y="-181.63" width="420" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-278" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;set NEXT_EXPECTED_RX_FLIT_SEQ_NUM = 11&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2400" y="-181.63000000000002" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-279" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1840" y="-200.8" as="sourcePoint" />
+            <mxPoint x="2960" y="-200.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-280" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1840" y="-160.8" as="sourcePoint" />
+            <mxPoint x="2960" y="-160.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-281" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;RX_RETRY_BUFFER_LAST_FLIT_SEQ_NUM is set to IMPLICIT_RX_FLIT_SEQ_NUM&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2580" y="-201.63" width="500" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-282" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;store the Received Flit in RX Retry Buffer&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="3080" y="-201.63" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-283" value="&lt;font style=&quot;color: rgb(153, 153, 153);&quot;&gt;standard_nak_procedure&lt;/font&gt;/ &lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;selective_nak_procedure&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="-160.8" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-284" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Nak Schedule 3&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="-140.8" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-285" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;TX_ACKNAK_FLIT_SEQ_NUM = NEXT_EXPECTED_RX_FLIT_SEQ_NUM - 1 (10 = 11 - 1)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="-160.8" width="460" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-286" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;set NAK_SCHEDULED = 1b&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="-140.8" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-287" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;NAK_SCHEDULED_TYPE = SELECTIVE_NAK&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="-140.8" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-288" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;NEXT_RX_FLIT_SEQ_NUM_TO_STORE = IMPLICIT_RX_FLIT_SEQ_NUM + 1&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2660" y="-141.63" width="420" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-289" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;set NEXT_EXPECTED_RX_FLIT_SEQ_NUM = 11&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2400" y="-141.63000000000002" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-290" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1840" y="-160.8" as="sourcePoint" />
+            <mxPoint x="2960" y="-160.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-292" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;RX_RETRY_BUFFER_LAST_FLIT_SEQ_NUM is set to IMPLICIT_RX_FLIT_SEQ_NUM&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2580" y="-161.63" width="500" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-293" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;store the Received Flit in RX Retry Buffer&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="3080" y="-161.63" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-296" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;if RX Retry Buffer is NOT empty, TX_ACKNAK_FLIT_SEQ_NUM is set to RX_RETRY_BUFFER_LAST_FLIT_SEQ_NUM, RX_RETRY_BUFFER_LAST_FLIT_SEQ_NUM&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="-120.8" width="960" height="20.8" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-297" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;if RX Retry Buffer is empty, TX_ACKNAK_FLIT_SEQ_NUM is set to IMPLICIT_RX_FLIT_SEQ_NUM, NEXT_EXPECTED_RX_FLIT_SEQ_NUM is set to IMPLICIT_RX_FLIT_SEQ_NUM+1&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="-100.8" width="960" height="20.8" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-298" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Payload&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 11px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Flit 10&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="79.99999999999999" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-299" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;set NAK_WITHDRAWAL_ALLOWED = 1&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="119.99999999999999" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-300" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Discard&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; font-size: 11px;&quot;&gt;Flit&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="140" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-301" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Valid&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="79.99999999999999" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-302" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Flit Usage 01b&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="79.99999999999999" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-303" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Prior Flit : Payload&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="79.99999999999999" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-304" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Payload&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 11px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Flit 11&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="119.99999999999999" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-305" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Invalid&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="119.99999999999999" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-306" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Flit Usage 01b&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="119.99999999999999" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-307" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Prior Flit : Payload&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="119.99999999999999" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-308" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Nak Schedule 0&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="119.99999999999999" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-309" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Payload&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 11px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Flit 12&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-310" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Valid&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="160" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-311" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Flit Usage 01b&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-312" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Prior Flit : Payload&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-313" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;set NEXT_EXPECTED_RX_FLIT_SEQ_NUM = 11&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="140" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-314" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Payload&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 11px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Flit 13&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="200" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-315" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Valid&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="200" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-316" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Flit Usage 01b&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="200" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-317" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Prior Flit : Payload&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="200" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-318" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Payload&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 11px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Flit 14&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="240" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-319" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Valid&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="240" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-320" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Flit Usage 01b&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="240" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-321" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Prior Flit : Payload&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="240" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-322" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Payload&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 11px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Flit 11&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="280" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-323" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Valid&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="280" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-324" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Flit Usage 01b&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="280" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-325" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Prior Flit : Payload&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="280" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-326" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Payload&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 11px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Flit 12&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-327" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Valid&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="320" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-328" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Flit Usage 01b&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-329" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Prior Flit : Payload&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-330" value="&lt;font style=&quot;color: rgb(153, 153, 153);&quot;&gt;standard_nak_procedure&lt;/font&gt;/ &lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;selective_nak_procedure&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="160" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-331" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Nak Schedule 3&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="180" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-332" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;TX_ACKNAK_FLIT_SEQ_NUM = NEXT_EXPECTED_RX_FLIT_SEQ_NUM - 1 (10 = 11 - 1)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="160" width="460" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-333" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;set NAK_SCHEDULED = 1b&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="180" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-334" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;NAK_SCHEDULED_TYPE = SELECTIVE_NAK&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="180" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-335" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;NEXT_RX_FLIT_SEQ_NUM_TO_STORE = IMPLICIT_RX_FLIT_SEQ_NUM + 1&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2660" y="179.17000000000002" width="420" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-336" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;set NEXT_EXPECTED_RX_FLIT_SEQ_NUM = 11&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2400" y="179.16999999999996" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-337" value="&lt;font style=&quot;color: rgb(153, 153, 153);&quot;&gt;standard_nak_procedure&lt;/font&gt;/ &lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;selective_nak_procedure&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="279.17" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-338" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Ack Schedule 2&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="299.17" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-339" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;set NAK_SCHEDULED = 0b&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="299.17" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-340" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Ack Schedule 0&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="319.17" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-341" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;TX_ACKNAK_FLIT_SEQ_NUM = NEXT_EXPECTED_RX_FLIT_SEQ_NUM (12 )&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="319.17" width="420" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-342" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;set NEXT_EXPECTED_RX_FLIT_SEQ_NUM = 13&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="339.17" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-343" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Ack Schedule 0&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="79.99999999999999" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-344" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;TX_ACKNAK_FLIT_SEQ_NUM = NEXT_EXPECTED_RX_FLIT_SEQ_NUM (10)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="79.99999999999999" width="420" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-345" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;set NEXT_EXPECTED_RX_FLIT_SEQ_NUM = 11&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="99.99999999999999" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-346" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Hpe5ynuHD4XDc1XbhERO-308">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1890" y="59.999999999999986" as="sourcePoint" />
+            <mxPoint x="2960" y="119.99999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-347" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1840" y="160" as="sourcePoint" />
+            <mxPoint x="2960" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-348" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1840" y="79.17" as="sourcePoint" />
+            <mxPoint x="2960" y="79.99999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-349" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1840" y="200" as="sourcePoint" />
+            <mxPoint x="2960" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-350" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;RX_RETRY_BUFFER_LAST_FLIT_SEQ_NUM is set to IMPLICIT_RX_FLIT_SEQ_NUM&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2580" y="159.17000000000002" width="500" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-351" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;store the Received Flit in RX Retry Buffer&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="3080" y="159.17000000000002" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-352" value="&lt;font style=&quot;color: rgb(153, 153, 153);&quot;&gt;standard_nak_procedure&lt;/font&gt;/ &lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;selective_nak_procedure&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="198.37" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-353" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Nak Schedule 3&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="218.37" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-354" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;TX_ACKNAK_FLIT_SEQ_NUM = NEXT_EXPECTED_RX_FLIT_SEQ_NUM - 1 (10 = 11 - 1)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="198.37" width="460" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-355" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;set NAK_SCHEDULED = 1b&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="218.37" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-356" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;NAK_SCHEDULED_TYPE = SELECTIVE_NAK&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="218.37" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-357" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;NEXT_RX_FLIT_SEQ_NUM_TO_STORE = IMPLICIT_RX_FLIT_SEQ_NUM + 1&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2660" y="217.54000000000002" width="420" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-358" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;set NEXT_EXPECTED_RX_FLIT_SEQ_NUM = 11&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2400" y="217.54000000000002" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-359" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1840" y="198.37" as="sourcePoint" />
+            <mxPoint x="2960" y="198.37" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-360" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1840" y="238.37" as="sourcePoint" />
+            <mxPoint x="2960" y="238.37" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-361" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;RX_RETRY_BUFFER_LAST_FLIT_SEQ_NUM is set to IMPLICIT_RX_FLIT_SEQ_NUM&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2580" y="197.54000000000002" width="500" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-362" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;store the Received Flit in RX Retry Buffer&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="3080" y="197.54000000000002" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-363" value="&lt;font style=&quot;color: rgb(153, 153, 153);&quot;&gt;standard_nak_procedure&lt;/font&gt;/ &lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;selective_nak_procedure&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="238.37" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-364" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Nak Schedule 3&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="258.37" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-365" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;TX_ACKNAK_FLIT_SEQ_NUM = NEXT_EXPECTED_RX_FLIT_SEQ_NUM - 1 (10 = 11 - 1)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="238.37" width="460" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-366" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;set NAK_SCHEDULED = 1b&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="258.37" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-367" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;NAK_SCHEDULED_TYPE = SELECTIVE_NAK&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="258.37" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-368" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;NEXT_RX_FLIT_SEQ_NUM_TO_STORE = IMPLICIT_RX_FLIT_SEQ_NUM + 1&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2660" y="257.54" width="420" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-369" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;set NEXT_EXPECTED_RX_FLIT_SEQ_NUM = 11&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2400" y="257.54" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-370" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1840" y="238.37" as="sourcePoint" />
+            <mxPoint x="2960" y="238.37" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-371" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;RX_RETRY_BUFFER_LAST_FLIT_SEQ_NUM is set to IMPLICIT_RX_FLIT_SEQ_NUM&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2580" y="237.54000000000002" width="500" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-372" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;store the Received Flit in RX Retry Buffer&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="3080" y="237.54000000000002" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-373" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;if RX Retry Buffer is NOT empty, TX_ACKNAK_FLIT_SEQ_NUM is set to RX_RETRY_BUFFER_LAST_FLIT_SEQ_NUM, RX_RETRY_BUFFER_LAST_FLIT_SEQ_NUM&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="278.37" width="960" height="20.8" as="geometry" />
+        </mxCell>
+        <mxCell id="Hpe5ynuHD4XDc1XbhERO-374" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;if RX Retry Buffer is empty, TX_ACKNAK_FLIT_SEQ_NUM is set to IMPLICIT_RX_FLIT_SEQ_NUM, NEXT_EXPECTED_RX_FLIT_SEQ_NUM is set to IMPLICIT_RX_FLIT_SEQ_NUM+1&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="298.37" width="960" height="20.8" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
