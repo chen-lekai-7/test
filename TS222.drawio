@@ -2869,237 +2869,201 @@
     </mxGraphModel>
   </diagram>
   <diagram id="a52UY0okrZ3rj_JePdVo" name="第 12 页">
-    <mxGraphModel dx="1418" dy="828" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1134" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="COM (K28.5)" vertex="1">
-          <mxGeometry height="40" width="360" x="129" y="213" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="COM (K28.5)" vertex="1">
+          <mxGeometry height="40" width="360" x="370" y="1010" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Symbol 0" vertex="1">
-          <mxGeometry height="40" width="80" x="49" y="213" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Symbol 0" vertex="1">
+          <mxGeometry height="40" width="80" x="290" y="1010" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Symbol 1" vertex="1">
-          <mxGeometry height="40" width="80" x="49" y="253" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Symbol 1" vertex="1">
+          <mxGeometry height="40" width="80" x="290" y="1050" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Link Number / PAD (K23.7)" vertex="1">
-          <mxGeometry height="40" width="360" x="129" y="253" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Link Number / PAD (K23.7)" vertex="1">
+          <mxGeometry height="40" width="360" x="370" y="1050" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Lane Number / PAD (K23.7)" vertex="1">
-          <mxGeometry height="40" width="360" x="129" y="293" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Lane Number / PAD (K23.7)" vertex="1">
+          <mxGeometry height="40" width="360" x="370" y="1090" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Symbol 2" vertex="1">
-          <mxGeometry height="40" width="80" x="49" y="293" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Symbol 2" vertex="1">
+          <mxGeometry height="40" width="80" x="290" y="1090" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Symbol 3" vertex="1">
-          <mxGeometry height="40" width="80" x="49" y="333" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Symbol 3" vertex="1">
+          <mxGeometry height="40" width="80" x="290" y="1130" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="FTS Number" vertex="1">
-          <mxGeometry height="40" width="360" x="129" y="333" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="N_FTS" vertex="1">
+          <mxGeometry height="40" width="360" x="370" y="1130" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Symbol 4" vertex="1">
-          <mxGeometry height="420" width="80" x="49" y="373" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Symbol 4" vertex="1">
+          <mxGeometry height="440" width="80" x="290" y="1170" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=top;" value="&lt;b style=&quot;background-color: rgb(255, 0, 255);&quot;&gt;Bit[7]&lt;/b&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;&lt;b style=&quot;background-color: rgb(51, 153, 255);&quot;&gt;Downstream Ports:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &lt;span style=&quot;background-color: rgb(255, 153, 51);&quot;&gt;Configuration&lt;/span&gt; and &lt;span style=&quot;background-color: rgb(255, 153, 51);&quot;&gt;Loopback.Entry&lt;/span&gt; States:&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; LinkUp = 0b :&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 1: SRIS Clocking&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 0: Common Clocking or SRNS&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &lt;span style=&quot;background-color: rgb(255, 153, 51);&quot;&gt;Recovery.RcvrLock&lt;/span&gt; States: speed_change&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; Other States: Reserved&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;b style=&quot;background-color: rgb(151, 208, 119);&quot;&gt;Upstream Ports:&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &lt;span style=&quot;background-color: rgb(255, 153, 51);&quot;&gt;Recovery.RcvrLock&lt;/span&gt; States: speed_change&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; Others: Reserved&lt;/div&gt;&lt;/div&gt;&lt;/blockquote&gt;" vertex="1">
-          <mxGeometry height="170" width="360" x="129" y="373" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=top;" value="&lt;b style=&quot;background-color: rgb(255, 0, 255);&quot;&gt;Bit[7]&amp;nbsp;&lt;/b&gt;&lt;b&gt; speed_change / SRIS Clocking&lt;/b&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;&lt;b style=&quot;background-color: rgb(51, 153, 255);&quot;&gt;Downstream Ports:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &lt;span style=&quot;background-color: rgb(255, 153, 51);&quot;&gt;Configuration&lt;/span&gt; and &lt;span style=&quot;background-color: rgb(255, 153, 51);&quot;&gt;Loopback.Entry&lt;/span&gt; States:&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; LinkUp = 0b :&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 1: SRIS Clocking&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 0: Common Clocking or SRNS&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &lt;span style=&quot;background-color: rgb(255, 153, 51);&quot;&gt;Recovery.RcvrLock&lt;/span&gt; States: speed_change&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; Other States: Reserved&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;b style=&quot;background-color: rgb(151, 208, 119);&quot;&gt;Upstream Ports:&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &lt;span style=&quot;background-color: rgb(255, 153, 51);&quot;&gt;Recovery.RcvrLock&lt;/span&gt; States: speed_change&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; Others: Reserved&lt;/div&gt;&lt;/div&gt;&lt;/blockquote&gt;" vertex="1">
+          <mxGeometry height="190" width="360" x="370" y="1170" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=top;" value="&lt;b style=&quot;background-color: rgb(255, 0, 255);&quot;&gt;Bit[6]&lt;/b&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;&lt;b style=&quot;background-color: rgb(51, 153, 255);&quot;&gt;Downstream Ports:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &lt;span style=&quot;background-color: rgb(255, 153, 51);&quot;&gt;Polling.Active&lt;/span&gt;&amp;nbsp;and &lt;span style=&quot;background-color: rgb(255, 153, 51);&quot;&gt;Configuration.Linkwidth.Start and Loopback.Entry&lt;/span&gt; States:&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Autonomous Change / Selectable De-emphasis&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; Other States: Reserved&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;b style=&quot;background-color: rgb(151, 208, 119);&quot;&gt;Upstream Ports:&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 153, 51);&quot;&gt;Polling.Active&lt;/span&gt;&amp;nbsp;and&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 153, 51);&quot;&gt;Configuration&lt;/span&gt;&lt;span&gt;, &lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 153, 51);&quot;&gt;Recovery &lt;/span&gt;&lt;span&gt;and&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 153, 51);&quot;&gt; Loopback.Entry&lt;/span&gt;&amp;nbsp;States:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Autonomous Change / Selectable De-emphasis&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; Other States: Reserved&lt;/div&gt;&lt;/div&gt;&lt;/blockquote&gt;" vertex="1">
-          <mxGeometry height="170" width="360" x="129" y="543" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=top;" value="&lt;b style=&quot;background-color: rgb(255, 0, 255);&quot;&gt;Bit[6]&lt;/b&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;&lt;b style=&quot;background-color: rgb(51, 153, 255);&quot;&gt;Downstream Ports:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &lt;span style=&quot;background-color: rgb(255, 153, 51);&quot;&gt;Polling.Active&lt;/span&gt;&amp;nbsp;and &lt;span style=&quot;background-color: rgb(255, 153, 51);&quot;&gt;Configuration.Linkwidth.Start and Loopback.Entry&lt;/span&gt; States:&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;b&gt;Autonomous Change / Selectable De-emphasis&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; Other States: Reserved&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;b style=&quot;background-color: rgb(151, 208, 119);&quot;&gt;Upstream Ports:&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 153, 51);&quot;&gt;Polling.Active&lt;/span&gt;&amp;nbsp;and&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 153, 51);&quot;&gt;Configuration&lt;/span&gt;&lt;span&gt;, &lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 153, 51);&quot;&gt;Recovery &lt;/span&gt;&lt;span&gt;and&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 153, 51);&quot;&gt; Loopback.Entry&lt;/span&gt;&amp;nbsp;States:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;b&gt;Autonomous Change / Selectable De-emphasis&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; Other States: Reserved&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;/blockquote&gt;" vertex="1">
+          <mxGeometry height="170" width="360" x="370" y="1360" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=top;" value="&lt;b style=&quot;background-color: rgb(255, 0, 255);&quot;&gt;Bits[5:1]&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Supported Link Speeds&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="360" x="129" y="713" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=top;" value="&lt;b style=&quot;background-color: rgb(255, 0, 255);&quot;&gt;Bits[5:1]&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Supported Link Speeds&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="360" x="370" y="1530" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=top;" value="&lt;b style=&quot;background-color: rgb(255, 0, 255);&quot;&gt;Bit[0]&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Flit Mode Supported bit&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="360" x="129" y="753" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=top;" value="&lt;b style=&quot;background-color: rgb(255, 0, 255);&quot;&gt;Bit[0]&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Flit Mode Supported bit&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="360" x="370" y="1570" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Symbol 5" vertex="1">
-          <mxGeometry height="360" width="80" x="49" y="793" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Symbol 5" vertex="1">
+          <mxGeometry height="360" width="80" x="290" y="1610" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=top;" value="&lt;b style=&quot;background-color: rgb(102, 255, 102);&quot;&gt;Bit[7:6]&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Enhanced Link Behavior Control (EC)&amp;nbsp;&lt;/div&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;00b - Full Equalization Required&lt;/div&gt;&lt;div&gt;01b - Equalization Bypass to Highest NRZ Rate Supported&lt;/div&gt;&lt;div&gt;10b - No Equalization Needed&lt;/div&gt;&lt;div&gt;11b - Modified TS1/TS2 Ordered Sets supported&lt;/div&gt;&lt;/blockquote&gt;" vertex="1">
-          <mxGeometry height="120" width="360" x="129" y="793" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=top;" value="&lt;b style=&quot;background-color: rgb(102, 255, 102);&quot;&gt;Bit[7:6]&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Enhanced Link Behavior Control (EC)&amp;nbsp;&lt;/div&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;00b - Full Equalization Required&lt;/div&gt;&lt;div&gt;01b - Equalization Bypass to Highest NRZ Rate Supported&lt;/div&gt;&lt;div&gt;10b - No Equalization Needed&lt;/div&gt;&lt;div&gt;11b - Modified TS1/TS2 Ordered Sets supported&lt;/div&gt;&lt;/blockquote&gt;" vertex="1">
+          <mxGeometry height="120" width="360" x="370" y="1610" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=top;" value="&lt;b style=&quot;background-color: rgb(102, 255, 102);&quot;&gt;Bit[5]&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Transmit Modified Compliance Pattern in Loopback&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="360" x="129" y="913" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=top;" value="&lt;b style=&quot;background-color: rgb(102, 255, 102);&quot;&gt;Bit[5]&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Transmit Modified Compliance Pattern in Loopback&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="360" x="370" y="1730" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=top;" value="&lt;b style=&quot;background-color: rgb(102, 255, 102);&quot;&gt;Bit[4]&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Compliance_Receive_Request bit&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="360" x="129" y="953" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=top;" value="&lt;b style=&quot;background-color: rgb(102, 255, 102);&quot;&gt;Bit[4]&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Compliance_Receive_Request bit&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="360" x="370" y="1770" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=top;" value="&lt;b style=&quot;background-color: rgb(102, 255, 102);&quot;&gt;Bit[3]&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Disabled Scrambling bit&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="360" x="129" y="993" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=top;" value="&lt;b style=&quot;background-color: rgb(102, 255, 102);&quot;&gt;Bit[3]&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Disabled Scrambling bit&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="360" x="370" y="1810" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=top;" value="&lt;b style=&quot;background-color: rgb(102, 255, 102);&quot;&gt;Bit[2]&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Loopback_Request bit&amp;nbsp;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="360" x="129" y="1033" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=top;" value="&lt;b style=&quot;background-color: rgb(102, 255, 102);&quot;&gt;Bit[2]&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Loopback_Request bit&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="360" x="370" y="1850" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=top;" value="&lt;b style=&quot;background-color: rgb(102, 255, 102);&quot;&gt;Bit[1]&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Disable_Link_Request bit&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="360" x="129" y="1073" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=top;" value="&lt;b style=&quot;background-color: rgb(102, 255, 102);&quot;&gt;Bit[1]&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Disable_Link_Request bit&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="360" x="370" y="1890" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=top;" value="&lt;b style=&quot;background-color: rgb(102, 255, 102);&quot;&gt;Bit[0]&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Hot_Reset_Request bit&amp;nbsp;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="360" x="129" y="1113" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=top;" value="&lt;b style=&quot;background-color: rgb(102, 255, 102);&quot;&gt;Bit[0]&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Hot_Reset_Request bit&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="360" x="370" y="1930" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Symbol 6" vertex="1">
-          <mxGeometry height="230" width="80" x="49" y="1153" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Symbol 6" vertex="1">
+          <mxGeometry height="40" width="80" x="290" y="1970" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="TS1 Identifier D10.2 (4Ah)" vertex="1">
-          <mxGeometry height="220" width="360" x="129" y="1153" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="TS1 Identifier D10.2 (4Ah)" vertex="1">
+          <mxGeometry height="40" width="360" x="370" y="1970" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Symbol 7" vertex="1">
-          <mxGeometry height="200" width="80" x="49" y="1373" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Symbol 7" vertex="1">
+          <mxGeometry height="40" width="80" x="290" y="2010" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="TS1 Identifier D10.2 (4Ah)" vertex="1">
-          <mxGeometry height="200" width="360" x="129" y="1373" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="TS1 Identifier D10.2 (4Ah)" vertex="1">
+          <mxGeometry height="40" width="360" x="370" y="2010" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Symbol 8" vertex="1">
-          <mxGeometry height="120" width="80" x="49" y="1573" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Symbol 8" vertex="1">
+          <mxGeometry height="90" width="80" x="290" y="2050" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="TS1 Identifier D10.2 (4Ah)" vertex="1">
-          <mxGeometry height="120" width="360" x="129" y="1573" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="TS1 Identifier D10.2 (4Ah)" vertex="1">
+          <mxGeometry height="90" width="360" x="370" y="2050" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Symbol 9" vertex="1">
-          <mxGeometry height="120" width="80" x="49" y="1693" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Symbol 9" vertex="1">
+          <mxGeometry height="70" width="80" x="290" y="2140" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="TS1 Identifier D10.2 (4Ah)" vertex="1">
-          <mxGeometry height="120" width="360" x="129" y="1693" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="TS1 Identifier D10.2 (4Ah)" vertex="1">
+          <mxGeometry height="70" width="360" x="370" y="2140" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Symbol 10" vertex="1">
-          <mxGeometry height="40" width="80" x="49" y="1813" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Symbol 10" vertex="1">
+          <mxGeometry height="40" width="80" x="290" y="2210" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="TS1 Identifier D10.2 (4Ah)" vertex="1">
-          <mxGeometry height="40" width="360" x="129" y="1813" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="TS1 Identifier D10.2 (4Ah)" vertex="1">
+          <mxGeometry height="40" width="360" x="370" y="2210" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Symbol 11" vertex="1">
-          <mxGeometry height="40" width="80" x="49" y="1853" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Symbol 11" vertex="1">
+          <mxGeometry height="40" width="80" x="290" y="2250" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="TS1 Identifier D10.2 (4Ah)" vertex="1">
-          <mxGeometry height="40" width="360" x="129" y="1853" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="TS1 Identifier D10.2 (4Ah)" vertex="1">
+          <mxGeometry height="40" width="360" x="370" y="2250" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Symbol 12" vertex="1">
-          <mxGeometry height="40" width="80" x="49" y="1893" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Symbol 12" vertex="1">
+          <mxGeometry height="40" width="80" x="290" y="2290" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="TS1 Identifier D10.2 (4Ah)" vertex="1">
-          <mxGeometry height="40" width="360" x="129" y="1893" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="TS1 Identifier D10.2 (4Ah)" vertex="1">
+          <mxGeometry height="40" width="360" x="370" y="2290" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Symbol 13" vertex="1">
-          <mxGeometry height="40" width="80" x="49" y="1933" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Symbol 13" vertex="1">
+          <mxGeometry height="40" width="80" x="290" y="2330" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="TS1 Identifier D10.2 (4Ah)" vertex="1">
-          <mxGeometry height="40" width="360" x="129" y="1933" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="TS1 Identifier D10.2 (4Ah)" vertex="1">
+          <mxGeometry height="40" width="360" x="370" y="2330" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Symbol 14" vertex="1">
-          <mxGeometry height="40" width="80" x="49" y="1973" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Symbol 14" vertex="1">
+          <mxGeometry height="40" width="80" x="290" y="2370" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="TS1 Identifier D10.2 (4Ah)" vertex="1">
-          <mxGeometry height="40" width="360" x="129" y="1973" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="TS1 Identifier D10.2 (4Ah)" vertex="1">
+          <mxGeometry height="40" width="360" x="370" y="2370" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Symbol 15" vertex="1">
-          <mxGeometry height="40" width="80" x="49" y="2013" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Symbol 15" vertex="1">
+          <mxGeometry height="40" width="80" x="290" y="2410" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="TS1 Identifier D10.2 (4Ah)" vertex="1">
-          <mxGeometry height="40" width="360" x="129" y="2013" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="TS1 Identifier D10.2 (4Ah)" vertex="1">
+          <mxGeometry height="40" width="360" x="370" y="2410" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="TS1 Ordered Set Identifier (1Eh)" vertex="1">
-          <mxGeometry height="40" width="360" x="489" y="213" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" value="Standard&lt;span&gt; &lt;span&gt;TS1&lt;/span&gt;&lt;/span&gt; Ordered Set (8b/10b)" vertex="1">
+          <mxGeometry height="20" width="360" x="370" y="990" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Link Number / PAD (F7h)" vertex="1">
-          <mxGeometry height="40" width="360" x="489" y="253" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="COM (K28.5)" vertex="1">
+          <mxGeometry height="40" width="360" x="730" y="1010" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Lane Number / PAD (F7h)" vertex="1">
-          <mxGeometry height="40" width="360" x="489" y="293" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Link Number / PAD (K23.7)" vertex="1">
+          <mxGeometry height="40" width="360" x="730" y="1050" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="FTS Number" vertex="1">
-          <mxGeometry height="40" width="360" x="489" y="333" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Lane Number / PAD (K23.7)" vertex="1">
+          <mxGeometry height="40" width="360" x="730" y="1090" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;verticalAlign=top;" value="&lt;b style=&quot;background-color: rgb(255, 0, 255);&quot;&gt;Bit[7]&lt;/b&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;&lt;b style=&quot;background-color: rgb(51, 153, 255);&quot;&gt;Downstream Ports:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &lt;span style=&quot;background-color: rgb(255, 153, 51);&quot;&gt;Configuration&lt;/span&gt; and &lt;span style=&quot;background-color: rgb(255, 153, 51);&quot;&gt;Loopback.Entry&lt;/span&gt; States:&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; LinkUp = 0b :&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 1: SRIS Clocking&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 0: Common Clocking or SRNS&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &lt;span style=&quot;background-color: rgb(255, 153, 51);&quot;&gt;Recovery.RcvrLock&lt;/span&gt; States: speed_change&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; Other States: Reserved&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;b style=&quot;background-color: rgb(151, 208, 119);&quot;&gt;Upstream Ports:&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &lt;span style=&quot;background-color: rgb(255, 153, 51);&quot;&gt;Recovery.RcvrLock&lt;/span&gt; States: speed_change&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; Others: Reserved&lt;/div&gt;&lt;/div&gt;&lt;/blockquote&gt;" vertex="1">
-          <mxGeometry height="170" width="360" x="489" y="373" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="N_FTS" vertex="1">
+          <mxGeometry height="40" width="360" x="730" y="1130" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;verticalAlign=top;" value="&lt;b style=&quot;background-color: rgb(255, 0, 255);&quot;&gt;Bit[6]&lt;/b&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;&lt;b style=&quot;background-color: rgb(51, 153, 255);&quot;&gt;Downstream Ports:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &lt;span style=&quot;background-color: rgb(255, 153, 51);&quot;&gt;Polling.Active&lt;/span&gt;&amp;nbsp;and &lt;span style=&quot;background-color: rgb(255, 153, 51);&quot;&gt;Configuration.Linkwidth.Start and Loopback.Entry&lt;/span&gt; States:&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Autonomous Change / Selectable De-emphasis&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; Other States: Reserved&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;b style=&quot;background-color: rgb(151, 208, 119);&quot;&gt;Upstream Ports:&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 153, 51);&quot;&gt;Polling.Active&lt;/span&gt;&amp;nbsp;and&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 153, 51);&quot;&gt;Configuration&lt;/span&gt;&lt;span&gt;, &lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 153, 51);&quot;&gt;Recovery &lt;/span&gt;&lt;span&gt;and&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 153, 51);&quot;&gt; Loopback.Entry&lt;/span&gt;&amp;nbsp;States:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Autonomous Change / Selectable De-emphasis&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; Other States: Reserved&lt;/div&gt;&lt;/div&gt;&lt;/blockquote&gt;" vertex="1">
-          <mxGeometry height="170" width="360" x="489" y="543" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;verticalAlign=top;" value="&lt;b style=&quot;background-color: rgb(255, 0, 255);&quot;&gt;Bit[7]&lt;/b&gt;&lt;b&gt;&amp;nbsp; SRIS Clocking&lt;/b&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;&lt;b style=&quot;background-color: rgb(51, 153, 255);&quot;&gt;Downstream Ports:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; LinkUp = 0b :&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 1: SRIS Clocking&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 0: Common Clocking or SRNS&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp;Else : Reserved&lt;/div&gt;&lt;/div&gt;&lt;/blockquote&gt;" vertex="1">
+          <mxGeometry height="190" width="360" x="730" y="1170" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;verticalAlign=top;" value="&lt;b style=&quot;background-color: rgb(255, 0, 255);&quot;&gt;Bits[5:1]&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Supported Link Speeds&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="360" x="489" y="713" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;verticalAlign=top;" value="&lt;b style=&quot;background-color: rgb(255, 0, 255);&quot;&gt;Bit[6]&lt;/b&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 153, 51);&quot;&gt;Configuration.Complete &lt;/span&gt;&amp;nbsp;State:&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Link Upconfigure / L0p Capability&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;/blockquote&gt;" vertex="1">
+          <mxGeometry height="170" width="360" x="730" y="1360" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;verticalAlign=top;" value="&lt;b style=&quot;background-color: rgb(255, 0, 255);&quot;&gt;Bit[0]&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Flit Mode Supported bit&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="360" x="489" y="753" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;verticalAlign=top;" value="&lt;b style=&quot;background-color: rgb(255, 0, 255);&quot;&gt;Bits[5:1]&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Supported Link Speeds&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="360" x="730" y="1530" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;verticalAlign=top;" value="&lt;b style=&quot;background-color: rgb(102, 255, 102);&quot;&gt;Bit[7:6]&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Enhanced Link Behavior Control (EC)&amp;nbsp;&lt;/div&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;00b - Full Equalization Required&lt;/div&gt;&lt;div&gt;01b - Equalization Bypass to Highest NRZ Rate Supported&lt;/div&gt;&lt;div&gt;10b - No Equalization Needed&lt;/div&gt;&lt;div&gt;11b - Modified TS1/TS2 Ordered Sets supported&lt;/div&gt;&lt;/blockquote&gt;" vertex="1">
-          <mxGeometry height="120" width="360" x="489" y="793" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;verticalAlign=top;" value="&lt;b style=&quot;background-color: rgb(255, 0, 255);&quot;&gt;Bit[0]&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Flit Mode Supported bit&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="360" x="730" y="1570" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;verticalAlign=top;" value="&lt;b style=&quot;background-color: rgb(102, 255, 102);&quot;&gt;Bit[5]&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Transmit Modified Compliance Pattern in Loopback&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="360" x="489" y="913" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;verticalAlign=top;" value="&lt;b style=&quot;background-color: rgb(102, 255, 102);&quot;&gt;Bit[7:6]&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Enhanced Link Behavior Control (EC)&amp;nbsp;&lt;/div&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;&lt;strike&gt;00b - Full Equalization Required&lt;/strike&gt;&lt;/div&gt;&lt;div&gt;&lt;strike&gt;01b - Equalization Bypass to Highest NRZ Rate Supported&lt;/strike&gt;&lt;/div&gt;&lt;div&gt;&lt;strike&gt;10b - No Equalization Needed&lt;/strike&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(0, 255, 255);&quot;&gt;11b - Modified TS1/TS2 Ordered Sets supported&lt;/span&gt;&lt;/div&gt;&lt;/blockquote&gt;" vertex="1">
+          <mxGeometry height="120" width="360" x="730" y="1610" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;verticalAlign=top;" value="&lt;b style=&quot;background-color: rgb(102, 255, 102);&quot;&gt;Bit[4]&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Compliance_Receive_Request bit&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="360" x="489" y="953" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;verticalAlign=top;" value="&lt;b style=&quot;background-color: rgb(102, 255, 102);&quot;&gt;Bit[5]&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(0, 255, 255);&quot;&gt;Two Retimers Present bit&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="360" x="730" y="1730" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;verticalAlign=top;" value="&lt;b style=&quot;background-color: rgb(102, 255, 102);&quot;&gt;Bit[3]&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;strike&gt;&lt;span style=&quot;background-color: rgb(255, 102, 102);&quot;&gt;Disabled Scrambling bit&lt;/span&gt;&amp;nbsp;&lt;/strike&gt;(Reserved)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="360" x="489" y="993" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;verticalAlign=top;" value="&lt;b style=&quot;background-color: rgb(102, 255, 102);&quot;&gt;Bit[4]&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(0, 255, 255);&quot;&gt;Retimer Present bit&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="360" x="730" y="1770" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;verticalAlign=top;" value="&lt;b style=&quot;background-color: rgb(102, 255, 102);&quot;&gt;Bit[2]&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Loopback_Request bit&amp;nbsp;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="360" x="489" y="1033" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;verticalAlign=top;" value="&lt;b style=&quot;background-color: rgb(102, 255, 102);&quot;&gt;Bit[3]&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(0, 255, 255);&quot;&gt;Reserved&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="360" x="730" y="1810" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-55" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;verticalAlign=top;" value="&lt;b style=&quot;background-color: rgb(102, 255, 102);&quot;&gt;Bit[1]&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Disable_Link_Request bit&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="360" x="489" y="1073" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-55" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;verticalAlign=top;" value="&lt;b style=&quot;background-color: rgb(102, 255, 102);&quot;&gt;Bit[2]&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(0, 255, 255);&quot;&gt;Reserved&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="360" x="730" y="1850" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;verticalAlign=top;" value="&lt;b style=&quot;background-color: rgb(102, 255, 102);&quot;&gt;Bit[0]&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Hot_Reset_Request bit&amp;nbsp;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="360" x="489" y="1113" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;verticalAlign=top;" value="&lt;b style=&quot;background-color: rgb(102, 255, 102);&quot;&gt;Bit[1]&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(0, 255, 255);&quot;&gt;No Equalization Needed&amp;nbsp;bit&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="360" x="730" y="1890" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-57" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;verticalAlign=top;" value="&lt;b&gt;&lt;span style=&quot;background-color: rgb(0, 255, 255);&quot;&gt;Bit[7]&lt;/span&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 153, 51);&quot;&gt;Recovery.Equalization&lt;/span&gt;, &lt;span style=&quot;background-color: rgb(255, 153, 51);&quot;&gt;Recoevery.RcvrLock&lt;/span&gt; and &lt;span style=&quot;background-color: rgb(255, 153, 51);&quot;&gt;Loopback&lt;/span&gt;:&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;Use Preset / Equalization Redo&amp;nbsp;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="360" x="489" y="1153" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-57" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;verticalAlign=top;" value="&lt;b style=&quot;background-color: rgb(102, 255, 102);&quot;&gt;Bit[0]&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(0, 255, 255);&quot;&gt;Equalization Bypass to Highest NRZ Rate Support bit&lt;/span&gt;&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="360" x="730" y="1930" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-58" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;verticalAlign=top;" value="&lt;b&gt;&lt;span style=&quot;background-color: rgb(0, 255, 255);&quot;&gt;Bit[6:3]&lt;/span&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Transmitter Preset&amp;nbsp;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="360" x="489" y="1213" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-68" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" value="Modified&amp;nbsp;&lt;span&gt;TS1&lt;/span&gt;&amp;nbsp;Ordered Set (8b/10b)" vertex="1">
+          <mxGeometry height="20" width="360" x="730" y="990" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-59" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;verticalAlign=top;" value="&lt;b&gt;&lt;span style=&quot;background-color: rgb(0, 255, 255);&quot;&gt;Bit[2]&lt;/span&gt;&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;font style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 153, 51);&quot;&gt;Recovery.Equalization&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;Reset EIEOS Interval Count&amp;nbsp;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="360" x="489" y="1253" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-69" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="TS1 Identifier D10.2 (4Ah)" vertex="1">
+          <mxGeometry height="40" width="360" x="730" y="1970" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-60" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;verticalAlign=top;" value="&lt;b&gt;&lt;span style=&quot;background-color: rgb(0, 255, 255);&quot;&gt;Bit[1:0]&lt;/span&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 153, 51);&quot;&gt;Recovery.Equalization and Loopback&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;Equalization Control (EC)&amp;nbsp;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="360" x="489" y="1313" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-70" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="TS1 Identifier D10.2 (4Ah)" vertex="1">
+          <mxGeometry height="40" width="360" x="730" y="2010" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-61" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;verticalAlign=top;" value="&lt;b&gt;&lt;span style=&quot;background-color: rgb(255, 102, 179);&quot;&gt;Bit[7]&lt;/span&gt;&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;font style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 153, 51);&quot;&gt;Recovery.Equalization&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;Retimer Equalization Extend (16.0 GT/s or higher)&amp;nbsp;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="360" x="489" y="1373" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-71" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;background-color: rgb(102, 255, 102);&quot;&gt;&lt;b style=&quot;&quot;&gt;Bits [2:0] of Symbol 8&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span&gt;&lt;b style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Modified TS Usage&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/b&gt;000b&amp;nbsp; PCIe protocol only&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 001b&amp;nbsp; PCIe protocl only with vendor defined Training Set&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Messages&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 010b&amp;nbsp; Alternate Protocol Negotiation&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;b style=&quot;background-color: rgb(102, 255, 102);&quot;&gt;Bits [15:3]&lt;/b&gt;&lt;b style=&quot;&quot;&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Modified TS Information 1&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="360" x="730" y="2050" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;verticalAlign=top;" value="&lt;b&gt;&lt;span style=&quot;background-color: rgb(255, 102, 179);&quot;&gt;Bit[6]&lt;/span&gt;&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;font style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 153, 51);&quot;&gt;Recovery&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;Transmitter Precoding On (32.0 GT/s or higher)&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="360" x="489" y="1433" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-72" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;" value="&lt;b style=&quot;background-color: rgb(255, 0, 255);&quot;&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;if Modified TS Usage = 001b&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span&gt;&lt;b style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Training Set Messaage Vendor ID&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span&gt;&lt;b style=&quot;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;b style=&quot;background-color: rgb(255, 0, 255);&quot;&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;if Modified TS Usage = 010b&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Alternate Protocol Vendor ID&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="360" x="730" y="2210" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-63" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;verticalAlign=top;" value="&lt;b&gt;&lt;span style=&quot;background-color: rgb(255, 102, 179);&quot;&gt;Bit[5:0]&lt;/span&gt;&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;if&amp;nbsp;&lt;font style=&quot;color: rgb(0, 0, 0); background-color: rgb(51, 153, 255);&quot;&gt;EC = 01b&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;FS&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Others:&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Pre-cursor Coefficient&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="360" x="489" y="1493" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-73" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;" value="&lt;b style=&quot;background-color: rgb(255, 0, 255);&quot;&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;if Modified TS Usage = 001b/010b&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span&gt;&lt;b style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Modified TS Information 2&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="360" x="730" y="2290" as="geometry" />
         </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;verticalAlign=top;" value="&lt;b style=&quot;background-color: rgb(102, 255, 102);&quot;&gt;Bits[7:6]&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Reserved&amp;nbsp;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="360" x="489" y="1573" as="geometry" />
-        </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-65" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;verticalAlign=top;" value="&lt;b style=&quot;background-color: rgb(102, 255, 102);&quot;&gt;Bits[5:0]&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;if &lt;span style=&quot;background-color: rgb(51, 153, 255);&quot;&gt;EC = 01b&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;LF&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Others:&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Cursor Coefficient&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="360" x="489" y="1613" as="geometry" />
-        </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-66" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;verticalAlign=top;" value="&lt;b&gt;&lt;span style=&quot;background-color: rgb(0, 255, 255);&quot;&gt;Bit[7]&lt;/span&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Parity&amp;nbsp;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="360" x="489" y="1693" as="geometry" />
-        </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-67" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;verticalAlign=top;" value="&lt;b&gt;&lt;span style=&quot;background-color: rgb(0, 255, 255);&quot;&gt;Bit[6]&lt;/span&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Reject Coefficient Values bit&amp;nbsp;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="360" x="489" y="1733" as="geometry" />
-        </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-68" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;verticalAlign=top;" value="&lt;b&gt;&lt;span style=&quot;background-color: rgb(0, 255, 255);&quot;&gt;Bit[5:0]&lt;/span&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Post-cursor Coefficient&amp;nbsp;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="360" x="489" y="1773" as="geometry" />
-        </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-69" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="TS1 Identifier&amp;nbsp; (4Ah)" vertex="1">
-          <mxGeometry height="40" width="360" x="489" y="1813" as="geometry" />
-        </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-70" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="TS1 Identifier&amp;nbsp; (4Ah)" vertex="1">
-          <mxGeometry height="40" width="360" x="489" y="1853" as="geometry" />
-        </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-71" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="TS1 Identifier&amp;nbsp; (4Ah)" vertex="1">
-          <mxGeometry height="40" width="360" x="489" y="1893" as="geometry" />
-        </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-72" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="TS1 Identifier&amp;nbsp; (4Ah)" vertex="1">
-          <mxGeometry height="40" width="360" x="489" y="1933" as="geometry" />
-        </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-73" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="TS1 Identifier&amp;nbsp; (4Ah) or DC Balance Symbol" vertex="1">
-          <mxGeometry height="40" width="360" x="489" y="1973" as="geometry" />
-        </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-74" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="TS1 Identifier&amp;nbsp; (4Ah) or DC Balance Symbol" vertex="1">
-          <mxGeometry height="40" width="360" x="489" y="2013" as="geometry" />
-        </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-75" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" value="Standard TS1 Ordered Set (8b/10b)" vertex="1">
-          <mxGeometry height="20" width="360" x="129" y="193" as="geometry" />
-        </mxCell>
-        <mxCell id="PRigvoLCpjn0WQwT4Vtt-76" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" value="Standard TS1 Ordered Set (128b/130b)" vertex="1">
-          <mxGeometry height="20" width="360" x="489" y="193" as="geometry" />
+        <mxCell id="JU_2nCbOxhNiHjYiBbhL-74" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" value="Bit-wise Even Parity" vertex="1">
+          <mxGeometry height="40" width="360" x="730" y="2410" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
