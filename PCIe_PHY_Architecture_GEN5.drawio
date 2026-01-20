@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.2.9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.2.9" pages="2">
   <diagram name="pcs_raw" id="oCPva5z2CAfjT7fkUyt8">
     <mxGraphModel dx="567" dy="318" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -27,6 +27,38 @@
         </mxCell>
         <mxCell id="OJQwDBWD1S4VgerCT7YC-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="pcs_raw" vertex="1">
           <mxGeometry height="20" width="60" x="255" y="270" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="7v98yFmSLr_fF1XL4zal" name="DWC_pcie_phy_top">
+    <mxGraphModel dx="675" dy="378" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tG_CMxM6vR8Vnbh6N_Vd-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="230" width="280" x="280" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="tG_CMxM6vR8Vnbh6N_Vd-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="DWC_phy_ram" vertex="1">
+          <mxGeometry height="40" width="120" x="290" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="tG_CMxM6vR8Vnbh6N_Vd-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="DWC_phy_rom" vertex="1">
+          <mxGeometry height="40" width="120" x="290" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="tG_CMxM6vR8Vnbh6N_Vd-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="DWC_pcie_apb2cr_para" vertex="1">
+          <mxGeometry height="40" width="260" x="290" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="tG_CMxM6vR8Vnbh6N_Vd-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="dwc_pcie5_upcs_x4_ns_x4_x4_pipe" vertex="1">
+          <mxGeometry height="40" width="260" x="290" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="tG_CMxM6vR8Vnbh6N_Vd-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="DWC_phy_adapter" vertex="1">
+          <mxGeometry height="40" width="120" x="430" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="tG_CMxM6vR8Vnbh6N_Vd-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="DWC_phy_ctrl" vertex="1">
+          <mxGeometry height="40" width="120" x="430" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="tG_CMxM6vR8Vnbh6N_Vd-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="DWC_pcie_phy_top" vertex="1">
+          <mxGeometry height="20" width="160" x="333" y="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
